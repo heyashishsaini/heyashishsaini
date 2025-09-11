@@ -1,6 +1,6 @@
 [![An image of @ashishalf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishalf)](https://holopin.io/@ashishalf)
 # 💫 About Me:
-Hello! I'm Ashish Kumar, an MCA student at Quantum University, Roorkee, with a Bachelor's in Computer Applications (BCA) from the same institution. I'm deeply passionate about web development, UI/UX design, and technology, always seeking opportunities to expand my knowledge and skill set in these areas.<br> As a motivated web developer with a strong foundation in programming and web technologies, I specialize in building user-friendly web applications. I'm currently looking for opportunities in web development, frontend development, and software engineering, where I can apply my skills and continue to grow professionally.
+I’m an SDE Trainee at UnifyCloud and on an exciting journey of learning AI and Cloud technologies. I love exploring how modern tech can solve real-world problems and enjoy sharpening my coding and problem-solving skills every day.
 
 
 ## 🌐 Socials:

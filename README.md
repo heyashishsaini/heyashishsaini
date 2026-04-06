@@ -1,6 +1,6 @@
 [![An image of @ashishalf's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishalf)](https://holopin.io/@ashishalf)
 # 💫 About Me:
-I’m an SDE Trainee at UnifyCloud and on an exciting journey of learning AI and Cloud technologies. I love exploring how modern tech can solve real-world problems and enjoy sharpening my coding and problem-solving skills every day.
+I’m an SDE at UnifyCloud and on an exciting journey of learning AI and Cloud technologies. I love exploring how modern tech can solve real-world problems and enjoy sharpening my coding and problem-solving skills every day.
 
 
 ## 🌐 Socials:
